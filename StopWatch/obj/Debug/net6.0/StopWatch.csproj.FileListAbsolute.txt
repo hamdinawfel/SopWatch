@@ -1,0 +1,15 @@
+C:\Users\AX412BC\workspace\StopWatch\StopWatch\bin\Debug\net6.0\StopWatch.exe
+C:\Users\AX412BC\workspace\StopWatch\StopWatch\bin\Debug\net6.0\StopWatch.deps.json
+C:\Users\AX412BC\workspace\StopWatch\StopWatch\bin\Debug\net6.0\StopWatch.runtimeconfig.json
+C:\Users\AX412BC\workspace\StopWatch\StopWatch\bin\Debug\net6.0\StopWatch.dll
+C:\Users\AX412BC\workspace\StopWatch\StopWatch\bin\Debug\net6.0\StopWatch.pdb
+C:\Users\AX412BC\workspace\StopWatch\StopWatch\obj\Debug\net6.0\StopWatch.csproj.AssemblyReference.cache
+C:\Users\AX412BC\workspace\StopWatch\StopWatch\obj\Debug\net6.0\StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AX412BC\workspace\StopWatch\StopWatch\obj\Debug\net6.0\StopWatch.AssemblyInfoInputs.cache
+C:\Users\AX412BC\workspace\StopWatch\StopWatch\obj\Debug\net6.0\StopWatch.AssemblyInfo.cs
+C:\Users\AX412BC\workspace\StopWatch\StopWatch\obj\Debug\net6.0\StopWatch.csproj.CoreCompileInputs.cache
+C:\Users\AX412BC\workspace\StopWatch\StopWatch\obj\Debug\net6.0\StopWatch.dll
+C:\Users\AX412BC\workspace\StopWatch\StopWatch\obj\Debug\net6.0\refint\StopWatch.dll
+C:\Users\AX412BC\workspace\StopWatch\StopWatch\obj\Debug\net6.0\StopWatch.pdb
+C:\Users\AX412BC\workspace\StopWatch\StopWatch\obj\Debug\net6.0\StopWatch.genruntimeconfig.cache
+C:\Users\AX412BC\workspace\StopWatch\StopWatch\obj\Debug\net6.0\ref\StopWatch.dll
